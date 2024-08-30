@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: CampfireParticle
+    uniqueID: 1514339773
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2559861977
+    locked: 0
